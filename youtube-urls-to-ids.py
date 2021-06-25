@@ -1,6 +1,6 @@
 import re
 
-VIDEO_URLS_FILE = 'speedrun.txt'
+VIDEO_URLS_FILE = 'urls.txt'
 VIDEO_IDS_FILE = 'ids.txt'
 
 INVIDIOUS_SITES = (
